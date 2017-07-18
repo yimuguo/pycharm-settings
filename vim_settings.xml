@@ -33,7 +33,7 @@
         <mark key="." line="88" column="74" />
         <mark key="^" line="88" column="74" />
       </file>
-      <file name="/Python Console" timestamp="1500364294139">
+      <file name="/Python Console" timestamp="1500400463343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Eamu/Documents/Github/autobench/autobench/vc6x_vco_sweep.py" timestamp="1464428559095">
@@ -45,13 +45,6 @@
       </file>
       <file name="/fragment.py" timestamp="1463121067154">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox (IDT)/crawler/test/test_VC5Summary.py" timestamp="1471166700412">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1500281688452">
         <mark key="[" line="0" column="0" />
@@ -96,12 +89,6 @@
         <mark key="." line="57" column="96" />
         <mark key="^" line="57" column="96" />
       </file>
-      <file name="$USER_HOME$/Dropbox (IDT)/crawler/vc5_crawler/__init__.py" timestamp="1470979108124">
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="31" />
-        <mark key="." line="38" column="31" />
-        <mark key="^" line="38" column="31" />
-      </file>
       <file name="D:/Eamu/Documents/Github/dirtyauto/dirtyauto/qlik2xls.ini" timestamp="1500363141595">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="36" />
@@ -124,6 +111,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="5" column="29" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox (IDT)/crawler/test/test_VC5Summary.py" timestamp="1471166700412">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="10" column="50" />
       </file>
       <file name="D:/Eamu/Documents/Github/dlogprocess/tests/test_charDlog.py" timestamp="1459121338728">
         <mark key="'" line="26" column="0" />
@@ -154,6 +148,12 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/Dropbox (IDT)/crawler/vc5_crawler/__init__.py" timestamp="1470979108124">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="31" />
+        <mark key="^" line="38" column="31" />
+      </file>
       <file name="D:/Eamu/Documents/Github/vec2pat/vec2pat/vc5_crawler.py" timestamp="1473394601781">
         <mark key="'" line="76" column="27" />
         <mark key="[" line="82" column="8" />
@@ -174,6 +174,12 @@
         <mark key="]" line="61" column="18" />
         <mark key="." line="61" column="18" />
         <mark key="^" line="61" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dropbox (IDT)/crawler/5P49V5901B-718_Summary.txt" timestamp="1471161924212">
+        <mark key="[" line="31" column="63" />
+        <mark key="]" line="31" column="63" />
+        <mark key="^" line="31" column="63" />
+        <mark key="." line="31" column="63" />
       </file>
       <file name="S:/Test_Eng/yGuo/vec2pat/9FGV100x-xxx.py" timestamp="1473826298386">
         <mark key="'" line="21" column="17" />
@@ -221,12 +227,6 @@
         <mark key="]" line="69" column="40" />
         <mark key="^" line="66" column="51" />
         <mark key="." line="69" column="44" />
-      </file>
-      <file name="$USER_HOME$/Dropbox (IDT)/crawler/5P49V5901B-718_Summary.txt" timestamp="1471161924212">
-        <mark key="[" line="31" column="63" />
-        <mark key="]" line="31" column="63" />
-        <mark key="^" line="31" column="63" />
-        <mark key="." line="31" column="63" />
       </file>
       <file name="D:/Eamu/Documents/Github/vec2pat/bin/9FGS9091/reg2pat_9FGS9091.py" timestamp="1473404134744">
         <mark key="'" line="46" column="6" />
@@ -422,40 +422,15 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>VDD33=3.7V</entry>
-        <entry>VDD33</entry>
-        <entry>VDD33 = 3.7</entry>
-        <entry>1.X1=0V. HCSL</entry>
-        <entry>1.X1=0V.HCSL</entry>
-        <entry>1. X1=0V.HCSL</entry>
-        <entry>X1=0V.HCSL</entry>
-        <entry>X1=0V.</entry>
-        <entry>Input</entry>
-        <entry>SMB</entry>
-        <entry>IDD33(mA) across Vcc</entry>
-        <entry>-21.9707</entry>
-        <entry>-31.9707</entry>
-        <entry>-32.9707</entry>
-        <entry>27. IDD33</entry>
-        <entry>27. IDD33(mA)</entry>
-        <entry>27.  IDD33(mA)</entry>
-        <entry>IDD_Suspend</entry>
-        <entry>bin</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
-      </history-search>
-      <history-cmd>
-        <entry>shownumber</entry>
-        <entry>set shownumber</entry>
-        <entry>set nuber</entry>
-        <entry>number</entry>
-        <entry>set numbers</entry>
-        <entry>set number</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
@@ -473,9 +448,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
