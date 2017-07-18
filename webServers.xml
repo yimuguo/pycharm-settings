@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b1fcfaaf-603a-42c1-af07-27d676e27c26" name="IDT" url="http://157.165.228.93">
+        <fileTransfer host="157.165.228.93" port="22" rootFolder="/cygdrive/c" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="935fcdb9-cc85-464e-bfc5-551bfcb227b9" name="IDT_LAB" url="http://157.165.147.113">
+        <fileTransfer host="157.165.147.113" port="22" rootFolder="/home/cmdscope" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,24 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general>
+      <option name="showDebuggerOnBreakpoint" value="false" />
+    </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter url-pattern="C:\Anaconda3\envs\py35\Lib\re.py" />
+          </stepping-filters>
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="librariesFilterEnabled" value="true" />
+          <option name="steppingFiltersEnabled" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

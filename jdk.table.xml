@@ -1,0 +1,234 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.1 (C:\Anaconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Anaconda3/DLLs" />
+            <root type="simple" url="file://C:/Anaconda3/Lib" />
+            <root type="simple" url="file://C:/Anaconda3" />
+            <root type="simple" url="file://C:/Anaconda3/Lib/site-packages" />
+            <root type="simple" url="file://C:/Anaconda3/Lib/site-packages/Sphinx-1.3.5-py3.5.egg" />
+            <root type="simple" url="file://C:/Anaconda3/Lib/site-packages/cryptography-1.0.2-py3.5-win-amd64.egg" />
+            <root type="simple" url="file://C:/Anaconda3/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Anaconda3/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Anaconda3/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://C:/Anaconda3/Lib/site-packages/setuptools-19.6.2-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1013586911" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.4 (C:\Anaconda3\envs\py34\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.4" />
+      <homePath value="C:\Anaconda3\envs\py34\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Anaconda3/envs/py34/DLLs" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py34/Lib" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py34" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py34/Lib/site-packages" />
+            <root type="simple" url="jar://C:/Anaconda3/envs/py34/Lib/site-packages/setuptools-20.3-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/32723771" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.10 (sftp://yguo@157.165.228.93:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="sftp://yguo@157.165.228.93:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-88072310/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-88072310/1906078309" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-88072310/918732847" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-88072310/-1027670078" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-88072310" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="b1fcfaaf-603a-42c1-af07-27d676e27c26" WEB_SERVER_CONFIG_NAME="IDT" WEB_SERVER_CREDENTIALS_ID="sftp://yguo@157.165.228.93:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/yguo/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.10">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/-88072310/-1027670078" remote-root="/usr/lib/python2.7/site-packages/pip-7.1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/-88072310/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/-88072310/1906078309" remote-root="/usr/lib/python2.7/plat-cygwin" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/-88072310/918732847" remote-root="/usr/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-88072310/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-88072310/1906078309" remote-root="/usr/lib/python2.7/plat-cygwin" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-88072310/918732847" remote-root="/usr/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-88072310/-1027670078" remote-root="/usr/lib/python2.7/site-packages/pip-7.1.0-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="IDTLAB" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="sftp://cmdscope@157.165.147.187:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/569204246/-1027670078" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/569204246/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/569204246/1906078309" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/569204246/918732847" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/569204246" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="935fcdb9-cc85-464e-bfc5-551bfcb227b9" WEB_SERVER_CONFIG_NAME="IDT_LAB" WEB_SERVER_CREDENTIALS_ID="sftp://cmdscope@157.165.147.187:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/cmdscope/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.10">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/569204246/-1027670078" remote-root="/usr/lib/python2.7/site-packages/pip-7.1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/569204246/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/569204246/1906078309" remote-root="/usr/lib/python2.7/plat-cygwin" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/569204246/918732847" remote-root="/usr/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 (C:\Anaconda3\envs\py35\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="C:\Anaconda3\envs\py35\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Anaconda3/envs/py35/DLLs" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35/Lib" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35/Lib/site-packages" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35/Lib/site-packages/reportlab-3.4.0-py3.5-win-amd64.egg" />
+            <root type="simple" url="jar://C:/Anaconda3/envs/py35/Lib/site-packages/Pillow-4.0.0-py3.5-win-amd64.egg!/" />
+            <root type="simple" url="jar://C:/Anaconda3/envs/py35/Lib/site-packages/olefile-0.44-py3.5.egg!/" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://C:/Anaconda3/envs/py35/Lib/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/161806490" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 (C:\Anaconda3\envs\py35qt\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Anaconda3\envs\py35qt\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Anaconda3/envs/py35qt/DLLs" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35qt/Lib" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35qt" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py35qt/Lib/site-packages" />
+            <root type="simple" url="jar://C:/Anaconda3/envs/py35qt/Lib/site-packages/setuptools-20.7.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/124397527" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 (C:\Anaconda3\envs\pyqt4\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Anaconda3\envs\pyqt4\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Anaconda3/envs/pyqt4/DLLs" />
+            <root type="simple" url="file://C:/Anaconda3/envs/pyqt4/Lib" />
+            <root type="simple" url="file://C:/Anaconda3/envs/pyqt4" />
+            <root type="simple" url="file://C:/Anaconda3/envs/pyqt4/Lib/site-packages" />
+            <root type="simple" url="file://C:/Anaconda3/envs/pyqt4/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Anaconda3/envs/pyqt4/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Anaconda3/envs/pyqt4/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://C:/Anaconda3/envs/pyqt4/Lib/site-packages/setuptools-20.7.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1451523791" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (C:\Anaconda3\envs\py27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Anaconda3\envs\py27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Anaconda3/envs/py27/DLLs" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py27/Lib" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py27" />
+            <root type="simple" url="file://C:/Anaconda3/envs/py27/Lib/site-packages" />
+            <root type="simple" url="jar://C:/Anaconda3/envs/py27/Lib/site-packages/setuptools-20.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/713374935" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
